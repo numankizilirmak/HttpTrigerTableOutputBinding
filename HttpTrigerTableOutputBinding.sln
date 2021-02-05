@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpTrigerTableOutputBinding", "HttpTrigerTableOutputBinding\HttpTrigerTableOutputBinding.csproj", "{825B481F-3B8B-4086-BE3F-9647EC052880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpTrigerTableOutputBinding", "HttpTrigerTableOutputBinding\HttpTrigerTableOutputBinding.csproj", "{825B481F-3B8B-4086-BE3F-9647EC052880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
